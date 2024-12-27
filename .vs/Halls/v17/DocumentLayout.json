@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\projects\\grand\\Halls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\controllers\\hallscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:controllers\\hallscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\grand\\Halls\\Data\\Migrations\\20241227005610_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20241227005610_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -121,6 +117,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\data\\migrations\\20241226175826_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:data\\migrations\\20241226175826_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|f:\\projects\\grand\\halls\\data\\migrations\\20241227005610_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B4673E-BF2D-4705-A2B4-E2293E512147}|Halls.csproj|solutionrelative:data\\migrations\\20241227005610_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -142,8 +142,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:36:07.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:36:07.382Z"
             },
             {
               "$type": "Document",
@@ -155,8 +154,7 @@
               "RelativeToolTip": "Views\\Hall\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:22:43.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:22:43.959Z"
             },
             {
               "$type": "Document",
@@ -168,8 +166,7 @@
               "RelativeToolTip": "Views\\Hall\\AddHall.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:23:46.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:23:46.081Z"
             },
             {
               "$type": "Document",
@@ -181,8 +178,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-26T17:54:24.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:54:24.436Z"
             },
             {
               "$type": "Document",
@@ -194,8 +190,7 @@
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-26T18:59:49.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:59:49.781Z"
             },
             {
               "$type": "Document",
@@ -207,31 +202,30 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:54:16.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:54:16.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HallsController1.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Controllers\\HallsController1.cs",
               "RelativeDocumentMoniker": "Controllers\\HallsController1.cs",
               "ToolTip": "F:\\projects\\grand\\Halls\\Controllers\\HallsController1.cs",
               "RelativeToolTip": "Controllers\\HallsController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T17:53:39.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hall.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Models\\Hall.cs",
               "RelativeDocumentMoniker": "Models\\Hall.cs",
               "ToolTip": "F:\\projects\\grand\\Halls\\Models\\Hall.cs",
               "RelativeToolTip": "Models\\Hall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T17:56:51.101Z",
               "EditorCaption": ""
@@ -246,8 +240,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:36:05.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:36:05.332Z"
             },
             {
               "$type": "Document",
@@ -259,8 +252,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:36:04.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:36:04.349Z"
             },
             {
               "$type": "Document",
@@ -272,8 +264,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAlwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T01:14:28.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:14:28.166Z"
             },
             {
               "$type": "Document",
@@ -285,8 +276,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:09:40.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:09:40.214Z"
             },
             {
               "$type": "Document",
@@ -298,8 +288,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:35:47.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:35:47.988Z"
             },
             {
               "$type": "Document",
@@ -311,8 +300,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:35:39.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:35:39.114Z"
             },
             {
               "$type": "Document",
@@ -324,8 +312,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T18:40:56.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:40:56.711Z"
             },
             {
               "$type": "Document",
@@ -337,8 +324,7 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:38:02.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:38:02.895Z"
             },
             {
               "$type": "Document",
@@ -350,8 +336,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:09:03.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:09:03.675Z"
             },
             {
               "$type": "Document",
@@ -363,8 +348,7 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:55:53.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:55:53.853Z"
             },
             {
               "$type": "Document",
@@ -376,8 +360,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-27T01:16:05.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:16:05.427Z"
             },
             {
               "$type": "Document",
@@ -389,8 +372,7 @@
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T18:49:45.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T18:49:45.431Z"
             },
             {
               "$type": "Document",
@@ -402,8 +384,7 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T01:14:06.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:14:06.66Z"
             },
             {
               "$type": "Document",
@@ -415,12 +396,11 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T01:15:09.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T01:15:09.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "20241227005610_identity.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Data\\Migrations\\20241227005610_identity.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20241227005610_identity.cs",
@@ -428,12 +408,11 @@
               "RelativeToolTip": "Data\\Migrations\\20241227005610_identity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T00:56:10.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T00:56:10.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -445,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -457,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "site.js",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -469,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "site.css",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -481,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "20241226175826_first.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Data\\Migrations\\20241226175826_first.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20241226175826_first.cs",
@@ -493,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -505,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
               "DocumentMoniker": "F:\\projects\\grand\\Halls\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
